@@ -101,16 +101,6 @@ def check ():
     else:
         m.showerror("result","Select correct option")
         
-            
-
-
-
-
-
-
-
-
-
 
 from tkinter import messagebox as m
 page1=tk.Tk()
